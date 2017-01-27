@@ -7,3 +7,5 @@ Gagnasafn er safn af mikið af gögnum. Gagnasafn getur til dæmis verið allar uppl
 Gagnasafnskerfi er hugbúnaðurinn sem heldur utan um gagnasafnið og hvernig það er notað og skipulagt þannig að það sé þæginlegt að nota og að fá upplýsingar frá.
 
 Færsla er lína eða textaheila í gagnagrunni eða gagnaskrá.  Oft eru til skrár sem heita README sem er færsla sem geymir mikilvægar upplýsingar til þeirra sem er að fara að nota það sem README skráin er geymd í.
+
+Skrá getur verið mikið af hlutum. Fleiri þekkja þetta kannski betur sem „file“ á ensku. Allt sem er í tölvunni þinni er skrá, þessi pistill er skrá, bakgrunnmyndin þín er skrá, jafnvel stýrikerfið sem þú ert að nota er skrá. Gögn eru alltaf geymd í skráum ef þær eru á stafrænu formi því tölvur geyma skráir
