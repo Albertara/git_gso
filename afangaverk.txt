@@ -3,3 +3,5 @@ Hérna verðurskrifuð túlkun Alberts á gögnum og gagnagrunnum með líklega mikið af
 Gögn eru upplýsingar sem geta verið geymd á ýsma vegu eins og rafrænt, stafrænt og fleira eins og bara á pappír eða á vídeóspólum. Rafræn gögn geta verið geymd á eitthverju sem tengist rafmagni á meðan stafræn gögn eru tæknilega séð líka rafræn en þurfa að vera geymd á tölvum. Við virum öll hvernig pappír virkar, hægt að skrifa niður eða teikna eða prenta það sem maður vill of geymt hann hvar sem er. Hann tekur kannski smá meira pláss en annað en virkar samt eins vel.
 
 Gagnasafn er safn af mikið af gögnum. Gagnasafn getur til dæmis verið allar upplýsingar hjá Já.is sem geymir fullt af heimilisföngum eða síma. Í stuttu máli er þetta fleiri en eitt gagn (er það orð???) á saman stað í geymslu.
+
+Gagnasafnskerfi er hugbúnaðurinn sem heldur utan um gagnasafnið og hvernig það er notað og skipulagt þannig að það sé þæginlegt að nota og að fá upplýsingar frá.
