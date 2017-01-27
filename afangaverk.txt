@@ -11,3 +11,5 @@ Færsla er lína eða textaheila í gagnagrunni eða gagnaskrá.  Oft eru til skrár se
 Skrá getur verið mikið af hlutum. Fleiri þekkja þetta kannski betur sem „file“ á ensku. Allt sem er í tölvunni þinni er skrá, þessi pistill er skrá, bakgrunnmyndin þín er skrá, jafnvel stýrikerfið sem þú ert að nota er skrá. Gögn eru alltaf geymd í skráum ef þær eru á stafrænu formi því tölvur geyma skráir
 
 Skráarsnið er hvernig tegund af skrá skráin þín er og er það merkt alltaf með .x þar sem X er ákveðið skráarsnið. Til dæmis þessi skrá sem ég er að skrifa í í „Document“ skrá og þá endar þessi skrá á .doc. Það eru til ótal skráarsnið, myndir hafa mjög mörg skráarsnið meðal annars .jpg .png .jpeg og fleira. Textaskrár eru .txt og skrár sem eru keyranleg forrit enda á .exe
+
+Gildi. Mjög algeng aðferð til þess að geyma gögn er í töflum. Segjum að tafla geymir kennitölu, nafn, kennitölu og heimilisfang hjá nokkrum manns. Gildi er þá til dæmis einkennitala hjá einni manneskju, eða heimilisfang hjá annari. Einn hlutur í tölfu er talið vera gildi
